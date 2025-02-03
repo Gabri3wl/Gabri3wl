@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Studing Software Engineerig | Florianópolis Brazil 🇧🇷</p>
+<p align="left">Studing Software Engineerig | Florianópolis - SC | Brazil 🇧🇷</p>
 
 ###
 
